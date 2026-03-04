@@ -2,7 +2,7 @@
 Ayachi and Swara’s C language project for CS course named design practices under the guidance of Kumar Madhukar sir.
 
 
-# present plan
+# Planning
 <u>**Current Phase: Phase 0**</u>
 
 Phase 0: Proposing plan and phase plans  
