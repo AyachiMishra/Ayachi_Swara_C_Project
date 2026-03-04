@@ -5,6 +5,6 @@ Ayachi and Swara’s C language project for CS course named design practices und
 # present plan
 <u>**Current Phase: Phase 0**</u>
 
-Phase0: Proposing plan and phase plans  
-Phase1: creating a  simple table without any features  
-Phase2: make individual cells accessible  
+Phase 0: Proposing plan and phase plans  
+Phase 1: creating a  simple table without any features  
+Phase 2: make individual cells accessible  
