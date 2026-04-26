@@ -3,7 +3,7 @@ Ayachi and Swara’s C language project for CS course named design practices und
 
 
 ## Planning
-<u>**Current Phase: Phase 1**</u>
+<u>**Current Phase: Phase 4**</u>
 
 Phase 0: Proposing plan and phase structure  
 Phase 1: creating a  simple table without any features. Main feature: Viewability with required number of cells  
