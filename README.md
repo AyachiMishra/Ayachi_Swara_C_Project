@@ -4,7 +4,7 @@ Ayachi and Swara’s C language project for CS course named design practices und
 NOTE: I made the repository public so that my teammates can fork it..
 
 ## Planning
-<u>**Current Phase: Phase 5**</u>
+<u>**Current Phase: All phases over**</u>
 
 Phase 0: Proposing plan and phase structure  
 Phase 1: creating a  simple table without any features. Main feature: Viewability with required number of cells  
