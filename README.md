@@ -1,7 +1,7 @@
 # Ayachi_Swara_C_Project
 Ayachi and Swara’s C language project for CS course named design practices under the guidance of Kumar Madhukar & Satyam Jay Sir.
 
-NOTE: I made the repository public so that my teammates can fork it..
+NOTE: Please run 'make clean' and then run make to use fresh .o files..
 
 ## Planning
 <u>**Current Phase: All phases over**</u>
